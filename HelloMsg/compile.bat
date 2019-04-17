@@ -1,0 +1,1 @@
+c:\dlang\dmd2\windows\bin\dmd -I=c:\dlang\import\ HelloMsg.d
